@@ -23,5 +23,8 @@ public static void main(String[]args) {
 			+ "9. Click On push origin\r\n"
 			+ "\r\n"
 			+ "Obser - We are able to see all changes on github.com now after push");
+	
+	
+	System.out.println("Note" +"\n"+ "Every time you make the changes in the code you have to commit  it and push or fetch again so as to get the changes in the github.com and every one in the team will be able to track the changes made");
 }
 }
